@@ -1,1 +1,3 @@
-console.log("WasiF MD bot starting...");
+import { connectBot } from "./lib/connect.js"
+
+connectBot()
